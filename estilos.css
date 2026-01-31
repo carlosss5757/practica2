@@ -52,7 +52,7 @@ p {
 #text p:first-child {
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
-    background-image: url(../images/fondoParrafo.png);
+    background-image: url(fondoParrafo.png);
     background-repeat: repeat;
 }
 
